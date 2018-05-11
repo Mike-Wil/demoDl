@@ -1,0 +1,33 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: green;
+}
+
+header {
+    background-color: violet;
+    text-align: center;
+}
+.orange {
+    background-color: blueviolet;
+    text-align: center;
+    height: 600px;
+    width: 500px;
+    
+}
+
+section {
+    background-color: blue;
+    color: yellowgreen;
+}
+
+#why {
+    color: lightsalmon;
+}
+
+img {
+    height: 100px;
+    width: auto;
+}
